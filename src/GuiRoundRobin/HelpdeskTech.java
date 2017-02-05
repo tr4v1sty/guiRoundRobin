@@ -15,9 +15,11 @@ public class HelpdeskTech {
     public void increaseTasksGiven(){
         tasksGiven ++;
     }
+
     public String getTechName() {
         return techName;
     }
+
     public int getTasksGiven() {
         return tasksGiven;
     }
