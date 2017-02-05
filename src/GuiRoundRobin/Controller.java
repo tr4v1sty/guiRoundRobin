@@ -90,8 +90,10 @@ public class Controller {
     @FXML
     Label label20;
     static int count = 0;
+    static Integer taskCount = 1;
 
     public void handleButton1(){
+
         //i know I should loop for this but i need to be able to move people around and account for empty seats
         ArrayList<Label> labelArrayCount = new ArrayList<>();
 //     empty seats   labelArrayCount.add(label21);labelArrayCount.add(label22);labelArrayCount.add(label29);labelArrayCount.add(label32);labelArrayCount.add(label40);
@@ -106,11 +108,14 @@ public class Controller {
         labelArrayName.add(label11);labelArrayName.add(label13);labelArrayName.add(label14);labelArrayName.add(label15);
         labelArrayName.add(label16);labelArrayName.add(label17);labelArrayName.add(label18);labelArrayName.add(label19);
 
-        labelArrayCount.get(count).setText("1");
+        labelArrayCount.get(count).setText(taskCount.toString());
         topTextLabel.setText("You just gave a task to " + labelArrayName.get(count).getText());
 
         count++;
-
+        if (count >= labelArrayName.size()){
+            taskCount++;
+            count = 0;
+        }
     }
 
 

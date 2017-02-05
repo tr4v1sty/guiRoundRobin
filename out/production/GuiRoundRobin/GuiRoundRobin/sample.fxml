@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.text.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.control.*?>
 <?import java.lang.*?>
@@ -31,8 +32,11 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Button fx:id="button1" mnemonicParsing="false" onAction="#handleButton1" text="RoundRobin" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM" />
-            <Label fx:id="topTextLabel" lineSpacing="1.0" prefHeight="66.0" prefWidth="329.0" text="Welcome" wrapText="true" GridPane.columnIndex="1" GridPane.valignment="TOP" />
+            <Button fx:id="button1" mnemonicParsing="false" onAction="#handleButton1" prefHeight="144.0" prefWidth="174.0" text="Round Robin" textAlignment="CENTER" wrapText="true" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+               <font>
+                  <Font size="36.0" />
+               </font></Button>
+            <Label fx:id="topTextLabel" lineSpacing="1.0" prefHeight="66.0" prefWidth="329.0" text="Welcome" textAlignment="CENTER" wrapText="true" GridPane.columnIndex="1" GridPane.valignment="TOP" />
             <Label fx:id="label17" text="Rick" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
                <GridPane.margin>
                   <Insets right="20.0" />
