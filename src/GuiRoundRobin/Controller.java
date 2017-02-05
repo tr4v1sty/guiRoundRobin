@@ -6,9 +6,10 @@ import java.util.ArrayList;
 
 public class Controller {
     @FXML
-    Button button1;
+    Button button0;
     @FXML
     Label topTextLabel;
+
     @FXML
     Label label21;
     @FXML
@@ -49,6 +50,7 @@ public class Controller {
     Label label39;
     @FXML
     Label label40;
+
     @FXML
     Label label1;
     @FXML
@@ -89,10 +91,11 @@ public class Controller {
     Label label19;
     @FXML
     Label label20;
+
     static int count = 0;
     static Integer taskCount = 1;
 
-    public void handleButton1(){
+    public void handleButton0(){
 
         //i know I should loop for this but i need to be able to move people around and account for empty seats
         ArrayList<Label> labelArrayCount = new ArrayList<>();

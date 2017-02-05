@@ -32,11 +32,14 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Button fx:id="button1" mnemonicParsing="false" onAction="#handleButton1" prefHeight="144.0" prefWidth="174.0" text="Round Robin" textAlignment="CENTER" wrapText="true" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
+            <Button fx:id="button0" mnemonicParsing="false" onAction="#handleButton0" prefHeight="144.0" prefWidth="174.0" text="Round Robin" textAlignment="CENTER" wrapText="true" GridPane.halignment="RIGHT" GridPane.valignment="BOTTOM">
                <font>
                   <Font size="36.0" />
                </font></Button>
-            <Label fx:id="topTextLabel" lineSpacing="1.0" prefHeight="66.0" prefWidth="329.0" text="Welcome" textAlignment="CENTER" wrapText="true" GridPane.columnIndex="1" GridPane.valignment="TOP" />
+            <Label fx:id="topTextLabel" lineSpacing="1.0" prefHeight="66.0" prefWidth="329.0" text="    Welcome" textAlignment="CENTER" wrapText="true" GridPane.columnIndex="1" GridPane.valignment="TOP">
+               <font>
+                  <Font size="20.0" />
+               </font></Label>
             <Label fx:id="label17" text="Rick" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
                <GridPane.margin>
                   <Insets right="20.0" />
@@ -137,156 +140,117 @@
                   <Insets left="100.0" />
                </GridPane.margin>
             </Label>
-            <Button layoutX="10.0" layoutY="67.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-            <Button layoutX="168.0" layoutY="159.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="2">
-               <GridPane.margin>
-                  <Insets />
-               </GridPane.margin>
-            </Button>
-            <Button layoutX="168.0" layoutY="159.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="5">
-               <GridPane.margin>
-                  <Insets left="75.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="4">
-               <GridPane.margin>
-                  <Insets left="75.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="3">
-               <GridPane.margin>
-                  <Insets left="75.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="2">
-               <GridPane.margin>
-                  <Insets left="75.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="1">
-               <GridPane.margin>
-                  <Insets left="75.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="5" />
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
-               <GridPane.margin>
-                  <Insets right="145.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
-               <GridPane.margin>
-                  <Insets right="45.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
-               <GridPane.margin>
-                  <Insets right="45.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
-               <GridPane.margin>
-                  <Insets right="127.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="5">
-               <GridPane.margin>
-                  <Insets right="135.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="5">
-               <GridPane.margin>
-                  <Insets right="50.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
-               <GridPane.margin>
-                  <Insets right="130.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
-               <GridPane.margin>
-                  <Insets right="63.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
-               <GridPane.margin>
-                  <Insets right="125.0" />
-               </GridPane.margin>
-            </Button>
-            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="10.0" text="Button" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
-               <GridPane.margin>
-                  <Insets right="55.0" />
-               </GridPane.margin>
-            </Button>
             <Label fx:id="label23" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="5">
                <GridPane.margin>
                   <Insets left="145.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label27" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="4">
                <GridPane.margin>
                   <Insets left="145.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label31" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="3">
                <GridPane.margin>
                   <Insets left="145.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label35" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="2">
                <GridPane.margin>
                   <Insets left="145.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label39" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="1">
                <GridPane.margin>
                   <Insets left="145.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
-            <Label fx:id="label37" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
-            <Label fx:id="label33" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2" />
+            <Label fx:id="label37" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
+               <font>
+                  <Font size="18.0" />
+               </font></Label>
+            <Label fx:id="label33" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
+               <font>
+                  <Font size="18.0" />
+               </font></Label>
             <Label fx:id="label38" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
                <GridPane.margin>
                   <Insets right="75.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label25" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
                <GridPane.margin>
                   <Insets />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label30" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
                <GridPane.margin>
                   <Insets right="75.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label34" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
                <GridPane.margin>
                   <Insets right="75.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label36" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="2">
                <GridPane.margin>
                   <Insets left="67.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label24" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="5">
                <GridPane.margin>
                   <Insets left="60.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label28" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.rowIndex="4">
                <GridPane.margin>
                   <Insets left="60.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
             <Label fx:id="label26" prefHeight="17.0" prefWidth="16.0" text="0" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="4">
                <GridPane.margin>
                   <Insets right="80.0" />
                </GridPane.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
             </Label>
          </children>
       </GridPane>

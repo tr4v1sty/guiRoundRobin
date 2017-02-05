@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GuiRoundRobin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuiRoundRobin_jar</output-path>
+    <root id="archive" name="GuiRoundRobin.jar">
+      <element id="module-output" name="GuiRoundRobin" />
+    </root>
+  </artifact>
+</component>
