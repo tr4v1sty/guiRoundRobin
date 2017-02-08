@@ -62,8 +62,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-83">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="321">
+              <caret line="297" column="40" lean-forward="true" selection-start-line="297" selection-start-column="40" selection-end-line="297" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -111,7 +111,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#187#188#0" expanded="false" />
+                <element signature="e#227#228#0" expanded="false" />
+                <element signature="e#266#267#0" expanded="false" />
+                <element signature="e#295#296#0" expanded="false" />
+                <element signature="e#330#331#0" expanded="false" />
+                <element signature="e#361#362#0" expanded="false" />
+                <element signature="e#395#396#0" expanded="false" />
+                <element signature="e#428#429#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,9 +155,9 @@
         <option value="$PROJECT_DIR$/src/sample/TechList.java" />
         <option value="$PROJECT_DIR$/src/GuiRoundRobin/HelpdeskTech.java" />
         <option value="$PROJECT_DIR$/src/GuiRoundRobin/TechList.java" />
+        <option value="$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml" />
         <option value="$PROJECT_DIR$/src/GuiRoundRobin/Main.java" />
         <option value="$PROJECT_DIR$/src/GuiRoundRobin/Controller.java" />
-        <option value="$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml" />
       </list>
     </option>
   </component>
@@ -177,9 +186,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,8 +250,9 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/travist/IdeaProjects/GuiRoundRobin/src/GuiRoundRobin/Main.java" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -510,7 +520,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13968669" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2624021" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -549,6 +559,79 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/HelpdeskTech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/TechList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/HelpdeskTech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -581,7 +664,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -617,7 +709,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,7 +754,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -700,7 +810,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -747,7 +866,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -794,7 +922,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -884,16 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/TechList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -906,29 +1033,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#227#228#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Controller.java">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/GuiRoundRobin/GuiRoundRobin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/sample.fxml">
+    <entry file="file://$PROJECT_DIR$/src/GuiRoundRobin/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="41" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="321">
+          <caret line="297" column="40" lean-forward="true" selection-start-line="297" selection-start-column="40" selection-end-line="297" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
   </component>
